@@ -1,1 +1,1 @@
-# EstructuraDeDatos_1_2026_Laboratorio_0
+https://colab.research.google.com/drive/1L8EXX_tGHBrqQTnFjzdxdGZMktlxaw5p?usp=drive_link
